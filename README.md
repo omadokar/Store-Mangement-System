@@ -3,3 +3,4 @@ This is an Store Mangement Project made by using
 - React
 - Redux
 - MySQL
+- Swagger
